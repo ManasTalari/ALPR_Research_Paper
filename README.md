@@ -1,1 +1,1 @@
-A Research Paper on an Automated License Plate Recognition System (ALPR)
+A Research Paper on the Automated License Plate Recognition System (ALPR)
